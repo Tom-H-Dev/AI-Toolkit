@@ -14,7 +14,7 @@ This repository contains a collection of links along with small descriptions for
 
 Description: [Add a small description about Link 1 here.]
 
-[Link 1]([https://www.example.com](https://chat.forefront.ai/))
+[chat.forefront.ai](https://chat.forefront.ai/)
 
 ## Link 2
 
