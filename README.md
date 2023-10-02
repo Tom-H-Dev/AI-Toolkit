@@ -6,15 +6,15 @@ This repository contains a collection of links along with small descriptions for
 
 ## Table of Contents
 
-- [Link 1](#link-1)
+- [Free GPT-4](#Free GPT-4)
 - [Link 2](#link-2)
 - [Link 3](#link-3)
 
-## Link 1
+## Free GPT-4
 
 Description: [Add a small description about Link 1 here.]
 
-[Link 1](https://www.example.com)
+[Free GPT-4]([https://www.example.com](https://chat.forefront.ai/))
 
 ## Link 2
 
