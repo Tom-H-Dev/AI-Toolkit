@@ -6,7 +6,7 @@ This repository contains a collection of links along with small descriptions for
 
 ## Table of Contents
 
-- [Free GPT-4](#Free GPT-4)
+- [Free GPT-4](#link-1)
 - [Link 2](#link-2)
 - [Link 3](#link-3)
 
