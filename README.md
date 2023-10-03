@@ -1,13 +1,10 @@
 # AI-Toolkit
-A Small toolkit for AI that are useful in scenarios
-# My Link Bundle
-
 This repository contains a collection of links along with small descriptions for each of them.
 
 ## Table of Contents
 
-- [Free GPT-4](#link-1)
-- [AI art generator](#AI art generator)
+- [Free GPT-4](#Free-GPT-4)
+- [AI art generator](#AI-art-generator)
 - [Link 3](#link-3)
 
 ## Free GPT-4
