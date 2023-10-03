@@ -7,7 +7,7 @@ This repository contains a collection of links along with small descriptions for
 ## Table of Contents
 
 - [Free GPT-4](#link-1)
-- [AI art generator](#link-2)
+- [AI art generator](#AI art generator)
 - [Link 3](#link-3)
 
 ## Free GPT-4
