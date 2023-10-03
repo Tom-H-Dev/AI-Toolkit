@@ -8,64 +8,62 @@ This repository contains a collection of links along with small descriptions for
 - [PDF Summary](#PDF-Summary)
 - [Make GOD level prompts](#Make-GOD-level-prompts)
 - [Find Infinite AI tools](#PDF-Summary)
-- [PDF Summary](#PDF-Summary)
-- [PDF Summary](#PDF-Summary)
-- [PDF Summary](#PDF-Summary)
-- [PDF Summary](#PDF-Summary)
+- [Find Client pain points](#Find-client-pain-points)
+- [Personal AI Assistant](#Personal-AI-Assistant)
+- [Learn Skills 100x faster](#Learn-Skills-100x-faster)
+- [Want to best of your nieche?](#Want-to-best-of-your-nieche?)
+- [GPT-4 on Steroids](#GPT-4-on-Steroids)
 
 ## Free GPT-4
 
-Description: [A free version of GPT-4 with a very look alike interface]
+Description: A free version of GPT-4 with a very look alike interface
 
 [chat.forefront.ai](https://chat.forefront.ai/)
 
 ## AI art generator
 
-Description: [AI art generator like dall-e]
+Description: AI art generator like dall-e
 
 [playform.io](https://www.playform.io/)
 
 ## Make GOD level prompts
 
-Description: [An ai tool to summaryize every pdf]
+Description: An ai tool to summaryize every pdf
 
 [promtify.ai](https://www.promtify.ai/)
 
 ## Find Infinite AI tools
 
-Description: [An ai tool to summaryize every pdf]
+Description: An ai tool to summaryize every pdf
 
 [aivalley.ai](https://aivalley.ai/)
 
-## PDF Summary
+## Find client pain points
 
-Description: [An ai tool to summaryize every pdf]
+Description: An ai tool to summaryize every pdf
+
+[painfinder.co](https://www.painfinder.co/)
+
+## Personal AI Assistant
+
+Description: An ai tool to summaryize every pdf
+
+[monica.im](https://monica.im/)
+
+## Learn Skills 100x faster
+
+Description: An ai tool to summaryize every pdf
+
+[skillify-ai.com](https://www.skillify-ai.com/)
+
+## Want to best of your nieche?
+
+Description: An ai tool to summaryize every pdf
+
+[feedly.com](https://feedly.com/)
+
+## GPT-4 on Steroids
+
+Description: An ai tool to summaryize every pdf
 
 [chatpdf.com](https://www.chatpdf.com/)
-
-## PDF Summary
-
-Description: [An ai tool to summaryize every pdf]
-
-[chatpdf.com](https://www.chatpdf.com/)
-
-## PDF Summary
-
-Description: [An ai tool to summaryize every pdf]
-
-[chatpdf.com](https://www.chatpdf.com/)
-
-## PDF Summary
-
-Description: [An ai tool to summaryize every pdf]
-
-[chatpdf.com](https://www.chatpdf.com/)
-
-## PDF Summary
-
-Description: [An ai tool to summaryize every pdf]
-
-[chatpdf.com](https://www.chatpdf.com/)
-
-
-
