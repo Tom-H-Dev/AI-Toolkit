@@ -5,7 +5,7 @@ This repository contains a collection of links along with small descriptions for
 
 - [Free GPT-4](#Free-GPT-4)
 - [AI art generator](#AI-art-generator)
-- [Link 3](#link-3)
+- [PDF Summary](#PDF-Summary)
 
 ## Free GPT-4
 
@@ -19,8 +19,8 @@ Description: [AI art generator like dall-e]
 
 [playform.io](https://www.playform.io/)
 
-## Link 3
+## PDF Summary
 
-Description: [Add a small description about Link 3 here.]
+Description: [An ai tool to summaryize every pdf]
 
-[Link 3](https://www.example.com)
+[chatpdf.com](https://www.chatpdf.com/)
