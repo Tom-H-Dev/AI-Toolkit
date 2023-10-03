@@ -7,20 +7,20 @@ This repository contains a collection of links along with small descriptions for
 ## Table of Contents
 
 - [Free GPT-4](#link-1)
-- [Link 2](#link-2)
+- [AI art generator](#link-2)
 - [Link 3](#link-3)
 
 ## Free GPT-4
 
-Description: [Add a small description about Link 1 here.]
+Description: [A free version of GPT-4 with a very look alike interface]
 
 [chat.forefront.ai](https://chat.forefront.ai/)
 
-## Link 2
+## AI art generator
 
-Description: [Add a small description about Link 2 here.]
+Description: [AI art generator like dall-e]
 
-[Link 2](https://www.example.com)
+[playform.io](https://www.playform.io/)
 
 ## Link 3
 
