@@ -26,6 +26,12 @@ Description: AI art generator like dall-e
 
 [playform.io](https://www.playform.io/)
 
+## PDF Summary
+
+Description: An ai tool to summaryize every pdf
+
+[chatpdf.com](https://www.chatpdf.com/)
+
 ## Make GOD level prompts
 
 Description: An ai tool to summaryize every pdf
