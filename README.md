@@ -34,13 +34,13 @@ Description: An ai tool to summaryize every pdf
 
 ## Make GOD level prompts
 
-Description: An ai tool to summaryize every pdf
+Description: Make the best prompts for anything from job searches questions
 
 [promtify.ai](https://www.promtify.ai/)
 
 ## Find Infinite AI tools
 
-Description: An ai tool to summaryize every pdf
+Description: A platform where you can find all the ai tools known to man that you can use
 
 [aivalley.ai](https://aivalley.ai/)
 
