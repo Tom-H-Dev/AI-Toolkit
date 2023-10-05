@@ -72,4 +72,4 @@ Description: Find al usefull information for you're nieche where you have buisne
 
 Description: A very strong version of gpt-4 that might be even better
 
-[chatpdf.com](https://www.chatpdf.com/)
+[Nous-Hermes-13b](https://huggingface.co/NousResearch/Nous-Hermes-13b)
