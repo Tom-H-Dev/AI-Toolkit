@@ -75,36 +75,36 @@ Description: Find al usefull information for you're nieche where you have buisne
 
 ## GPT-4 on Steroids
 
-Description: A very strong version of gpt-4 that might be even better
+Description: A very strong version of gpt-4 that might be even better.
 
 [Nous-Hermes-13b](https://huggingface.co/NousResearch/Nous-Hermes-13b)
 
 ## Page summaries and simple chat
 
-Description: A very strong version of gpt-4 that might be even better
+Description: Find information on the current domaijn/page or the entire wide web. Ask it anything and perplexity will answer you.
 
-[Nous-Hermes-13b](https://www.perplexity.ai/)
+[perplexity.ai](https://www.perplexity.ai/)
 
 ## Dall-e but free
 
-Description: A very strong version of gpt-4 that might be even better
+Description: A free image generator.
 
-[Nous-Hermes-13b](https://leonardo.ai/)
+[leonardo.ai](https://leonardo.ai/)
 
 ## Dall-e but free 2
 
-Description: A very strong version of gpt-4 that might be even better
+Description: A free image generator.
 
-[Nous-Hermes-13b](https://playground.ai/)
+[Playground.ai](https://playground.ai/)
 
 ## Create game worlds
 
-Description: A very strong version of gpt-4 that might be even better
+Description: Generate worlds and views based on a text prompt you give and let your imagination flow.
 
-[Nous-Hermes-13b](https://www.blockadelabs.com/)
+[Blockade Labs](https://www.blockadelabs.com/)
 
 ## Real word to 3d
 
-Description: A very strong version of gpt-4 that might be even better
+Description: Take a picture in real life and see it tranform into an acurate 3d object via Luma Labs.
 
-[Nous-Hermes-13b](https://lumalabs.ai/)
+[Luma Labs](https://lumalabs.ai/)
