@@ -13,6 +13,11 @@ This repository contains a collection of links along with small descriptions for
 - [Learn Skills 100x faster](#Learn-Skills-100x-faster)
 - [Want to best of your nieche?](#Want-to-best-of-your-nieche?)
 - [GPT-4 on Steroids](#GPT-4-on-Steroids)
+- [Page summaries and simple chat](#Page-summaries-and-simple-chat)
+- [Dall-e but free](#Dall-e-but-free)
+- [Dall-e but free 2](#Dall-e-but-free-2)
+- [Create game worlds](#Create-game-worlds)
+- [Real word to 3d](#Real-word-to-3d)
 
 ## Free GPT-4
 
@@ -73,3 +78,33 @@ Description: Find al usefull information for you're nieche where you have buisne
 Description: A very strong version of gpt-4 that might be even better
 
 [Nous-Hermes-13b](https://huggingface.co/NousResearch/Nous-Hermes-13b)
+
+## Page summaries and simple chat
+
+Description: A very strong version of gpt-4 that might be even better
+
+[Nous-Hermes-13b](https://www.perplexity.ai/)
+
+## Dall-e but free
+
+Description: A very strong version of gpt-4 that might be even better
+
+[Nous-Hermes-13b](https://leonardo.ai/)
+
+## Dall-e but free 2
+
+Description: A very strong version of gpt-4 that might be even better
+
+[Nous-Hermes-13b](https://playground.ai/)
+
+## Create game worlds
+
+Description: A very strong version of gpt-4 that might be even better
+
+[Nous-Hermes-13b](https://www.blockadelabs.com/)
+
+## Real word to 3d
+
+Description: A very strong version of gpt-4 that might be even better
+
+[Nous-Hermes-13b](https://lumalabs.ai/)
